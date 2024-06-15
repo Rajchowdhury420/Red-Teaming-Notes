@@ -3,7 +3,7 @@ import { UserConfig } from "./src/config"
 const userConfig: UserConfig = {
     mount: {
         manual: false,
-        page_url: 'https://fzl-aws.notion.site/Red-Teaming-Notes-748ed68c885844ec8ba32b6cb4a7df29?pvs=4',
+        page_url: 'https://fzl-aws.notion.site/Red-Teaming-Notes-748ed68c885844ec8ba32b6cb4a7df29',
         pages: [
             // {
             //     page_id: '<page_id>',
