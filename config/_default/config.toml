@@ -1,4 +1,4 @@
-baseURL = "https://fzl-aws.notion.site/Red-Teaming-Notes-748ed68c885844ec8ba32b6cb4a7df29?pvs=4"
+baseURL = "https://fzl-aws.notion.site/Red-Teaming-Notes-748ed68c885844ec8ba32b6cb4a7df29"
 languageCode = "en-us"
 title = "Red Teaming Notes"
 theme = "DoIt"
